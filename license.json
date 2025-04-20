@@ -1,8 +1,20 @@
 {
   "licenses": [
-    { "key": "WEEKLY-WMIUXL", "expires": "2025-04-27" },
-    { "key": "MONTHLY-ANPEVA", "expires": "2025-05-20" },
-    { "key": "6MO-MDNTDI", "expires": "2025-10-17" },
-    { "key": "YEARLY-PXPSRF", "expires": "2026-04-20" }
+    {
+      "key": "WEEKLY-WMIUXL",
+      "expiry": "2025-04-27"
+    },
+    {
+      "key": "MONTHLY-ANPEVA",
+      "expiry": "2025-05-20"
+    },
+    {
+      "key": "6MO-MDNTDI",
+      "expiry": "2025-10-17"
+    },
+    {
+      "key": "YEARLY-PXPSRF",
+      "expiry": "2026-04-20"
+    }
   ]
 }
